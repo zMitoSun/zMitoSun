@@ -1,6 +1,6 @@
 ## 🦊 - Hello my name is Jhonnas, but I prefer to use my codename zMitoSun 🤷🏻‍♂️
 
-![zMitoSun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmitosun&show_icons=true&theme=ocean_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmitosun&layout=compact)]()
+![zMitoSun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmitosun&show_icons=true&theme=ocean_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmitosun&layout=compact)](https://github.com/zMitoSun)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/jhonnasdgw/)
