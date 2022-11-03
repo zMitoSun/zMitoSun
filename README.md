@@ -1,4 +1,4 @@
-## 🦊 - Hello my name is Jhonnas, but I prefer to use my codename zMitoSun 🤷🏻‍♂️
+## 🦊 - Hello my name is Jhonnas, but I prefer to use codename zMitoSun 🤷🏻‍♂️
 
 ![zMitoSun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmitosun&show_icons=true&theme=ocean_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmitosun&layout=compact)](https://github.com/zMitoSun)
 
