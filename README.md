@@ -2,6 +2,9 @@
 
 ## Interests
 #### DevOps
+#### Network
+#### Automation
+#### Cybersecurity
 
 ## Favorite technologies
 <div style: "display: inline-block">
