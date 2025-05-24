@@ -1,12 +1,6 @@
 # 🦊 - Hello my name is Jhonnas, but I prefer to use codename zMitoSun 🤷🏻‍♂️
 ## All content in my repository is free to use and modify. #LongLiveOpenSource
 
-## Interests
-#### DevOps
-#### Network
-#### Automation
-#### Cybersecurity
-
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{zMitoSun}/count.svg" /></p> 
