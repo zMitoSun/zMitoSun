@@ -1,4 +1,5 @@
-## 🦊 - Hello my name is Jhonnas, but I prefer to use codename zMitoSun 🤷🏻‍♂️
+# 🦊 - Hello my name is Jhonnas, but I prefer to use codename zMitoSun 🤷🏻‍♂️
+## All content in my repository is free to use and modify. #LongLiveOpenSource
 
 ## Interests
 #### DevOps
